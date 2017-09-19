@@ -1,5 +1,5 @@
 ﻿﻿var eventToUse = 'click';
-var appUrl = 'http://10.0.0.185:3000/';
+var appUrl = 'https://image-sc.herokuapp.com/';
 
 function makeTemplates() {
     var templateName = '';
